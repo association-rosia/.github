@@ -1,1 +1,1 @@
-<img src='assets/reflection-connection.png'>
+<img src='https://github.com/association-rosia/.github/blob/main/profile/assets/reflection-connection.png?raw=true'>
