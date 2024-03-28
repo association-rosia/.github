@@ -1,4 +1,4 @@
-<img src='https://github.com/association-rosia/.github/blob/main/profile/assets/reflection-connection.png?raw=true'>
+<img src='https://github.com/association-rosia/.github/blob/main/profile/assets/stranger-sections-2.png?raw=true'>
 
 ## 📝 Description
 Discover RosIA, the association of Artificial Intelligence enthusiasts! 🚀 Our association, RosIA, brings together innovative minds around a captivating mission: to explore the horizons of AI together. 🤖💡 With our main mission being to provide our members with the necessary tools to materialize their Data Science projects, we aim to solve contemporary challenges using the most advanced AI technologies. Join us to shape the future of technology and be part of a vibrant and growing community! 🌟
